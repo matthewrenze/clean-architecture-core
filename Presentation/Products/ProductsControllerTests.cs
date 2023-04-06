@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Moq.AutoMock;
+﻿using Moq.AutoMock;
 using CleanArchitecture.Application.Products.Queries.GetProductsList;
 using NUnit.Framework;
 

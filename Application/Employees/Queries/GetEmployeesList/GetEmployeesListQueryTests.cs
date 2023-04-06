@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Moq.AutoMock;
+﻿using Moq.AutoMock;
 using Moq.EntityFrameworkCore;
 using CleanArchitecture.Application.Interfaces;
 using CleanArchitecture.Domain.Employees;

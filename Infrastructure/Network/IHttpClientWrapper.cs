@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace CleanArchitecture.Infrastructure.Network
+﻿namespace CleanArchitecture.Infrastructure.Network
 {
     public interface IHttpClientWrapper
     {

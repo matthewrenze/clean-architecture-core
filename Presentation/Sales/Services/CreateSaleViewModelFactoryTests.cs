@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Moq.AutoMock;
+﻿using Moq.AutoMock;
 using CleanArchitecture.Application.Customers.Queries.GetCustomerList;
 using CleanArchitecture.Application.Employees.Queries.GetEmployeesList;
 using CleanArchitecture.Application.Products.Queries.GetProductsList;

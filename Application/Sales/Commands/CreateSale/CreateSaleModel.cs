@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace CleanArchitecture.Application.Sales.Commands.CreateSale
+﻿namespace CleanArchitecture.Application.Sales.Commands.CreateSale
 {
     public class CreateSaleModel
     {

@@ -1,6 +1,5 @@
 ﻿using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.SwaggerGen;
-using System.Collections.Generic;
 
 //TODO: Move to Shared folder or Common project?
 

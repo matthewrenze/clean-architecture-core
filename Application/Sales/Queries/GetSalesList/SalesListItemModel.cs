@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CleanArchitecture.Application.Sales.Queries.GetSalesList
+﻿namespace CleanArchitecture.Application.Sales.Queries.GetSalesList
 {
     public class SalesListItemModel
     {
