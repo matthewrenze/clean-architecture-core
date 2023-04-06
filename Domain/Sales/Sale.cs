@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using CleanArchitecture.Domain.Common;
+﻿using CleanArchitecture.Domain.Common;
 using CleanArchitecture.Domain.Customers;
 using CleanArchitecture.Domain.Employees;
 using CleanArchitecture.Domain.Products;

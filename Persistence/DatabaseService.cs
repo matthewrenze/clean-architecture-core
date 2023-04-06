@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using System.Linq;
 using CleanArchitecture.Application.Interfaces;
 using CleanArchitecture.Domain.Customers;
 using CleanArchitecture.Domain.Employees;

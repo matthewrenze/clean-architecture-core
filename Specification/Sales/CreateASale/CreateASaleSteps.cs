@@ -1,6 +1,4 @@
-﻿using System;
-using System.Linq;
-using CleanArchitecture.Application.Interfaces;
+﻿using CleanArchitecture.Application.Interfaces;
 using CleanArchitecture.Application.Sales.Commands.CreateSale;
 using CleanArchitecture.Common.Dates;
 using CleanArchitecture.Specification.Shared;

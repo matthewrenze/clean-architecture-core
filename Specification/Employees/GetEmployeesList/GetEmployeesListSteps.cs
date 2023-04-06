@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using CleanArchitecture.Application.Employees.Queries.GetEmployeesList;
+﻿using CleanArchitecture.Application.Employees.Queries.GetEmployeesList;
 using Microsoft.Extensions.DependencyInjection;
 using NUnit.Framework;
 using TechTalk.SpecFlow;

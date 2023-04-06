@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace CleanArchitecture.Specification.Sales.CreateASale
+﻿namespace CleanArchitecture.Specification.Sales.CreateASale
 {
     public class CreateSaleRecordModel
     {

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace CleanArchitecture.Application.Sales.Queries.GetSaleDetail
+﻿namespace CleanArchitecture.Application.Sales.Queries.GetSaleDetail
 {
     public class SaleDetailModel
     {
