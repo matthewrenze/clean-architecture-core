@@ -18,7 +18,7 @@ This demo application uses the following technologies:
  - Moq 4.18
  - SpecFlow 3.9
 
-## Other Versions
-For other versions of this sample application, please see the following:
- - [.NET Framework 4.8](https://github.com/matthewrenze/clean-architecture-demo)
- - [.NET Framework 4.5](https://github.com/matthewrenze/clean-architecture-demo/tree/v4.5)
+## ⚠️ Update ⚠️
+All versions of the Clean Architecture demo (including .NET 6 and newer) have been consolidated into the **[clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)** repository.
+
+Please visit the new repository for the latest code and updates.
